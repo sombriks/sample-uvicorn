@@ -11,5 +11,6 @@ you'll need python 3.7 and [pipenv](https://docs.pipenv.org/en/latest/) properly
 open a console into this folder and:
 
 ```bash
+pipenv install
 pipenv run dev
 ```
